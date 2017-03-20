@@ -1,0 +1,18 @@
+{
+  "name": "node-simple-ping-pong",
+  "version": "1.0.0",
+  "description": "Simple ping pong using socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "node": "0.0.0",
+    "node-js": "^1.0.0",
+    "nodejs": "0.0.0",
+    "socket.io-client": "^1.7.3",
+    "socketio": "^1.0.0"
+  }
+}
